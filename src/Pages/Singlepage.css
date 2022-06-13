@@ -1,0 +1,46 @@
+.imagess{
+    width: 400px;
+    height: 400px;
+}
+.Individual-image{
+    display: flex;
+    margin:4rem ;
+}
+.inner-child{
+    display: flex;
+    align-items: center;
+    margin-left: 3rem;
+}
+.year{
+   font-weight: 500;
+ border-right: 2px solid black;
+  margin-right: 10px;
+  padding-right: 5px;
+  color: white;
+}
+.length{
+    font-weight: 500;
+    border-right: 2px solid black;
+  margin-right: 10px;
+  padding-right: 5px;
+  color: white;
+}
+.director{
+    font-weight: 500;
+}
+.Description{
+    font-weight: 400;
+    margin-left: 3rem;
+    color: white;
+    letter-spacing: 1px;
+}
+.Cast{
+    font-weight: 600;
+    margin-left: 3rem;
+    color: blue;
+}
+.title1{
+    margin: 0 0 0 1.4em;
+    color: blue;
+    
+}

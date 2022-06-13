@@ -1,0 +1,33 @@
+.Image-Container{
+    display: flex;
+    overflow-x: auto;
+    overflow-y: hidden;
+  
+}
+.Image-Container::-webkit-scrollbar{
+    display:none;
+}
+.Images{
+    width: 20rem;
+    height: 20rem;
+    margin:1rem 
+}
+.firstRelease{
+    margin-left: 4rem;
+    font-weight: 300;
+}
+.Search-title{
+    color: blue;
+    font-size: 1.3rem;
+    margin-left: 1.2rem;
+    margin-top: 1rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.search-div{
+background-color: gray;
+border: 1px solid black;
+margin: 2rem;
+padding: 2rem;
+
+}
+
